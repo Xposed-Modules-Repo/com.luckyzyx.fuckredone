@@ -1,4 +1,8 @@
 # KillRedOne  
+
+# 该模块功能已迁移至LuckyTool
+[LuckyTool](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool)
+
 OnePlus For ColorOS Kill RedOne  
 旨在干掉一加ColorOS的红一  
 
